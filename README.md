@@ -1,4 +1,5 @@
 SISTEMA DE VENTA DE LOTES
+
 Descripción:
 Este proyecto implementa un sistema modular en Python para gestionar el registro y la venta de lotes de la empresa Terrenos del Norte S.A.C.
 El sistema permite registrar lotes, consultar su disponibilidad, registrar compradores, calcular el precio total de una venta, determinar la cuota inicial y calcular el saldo pendiente.
