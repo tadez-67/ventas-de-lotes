@@ -70,9 +70,11 @@ El sistema fue probado con los siguientes casos:
 -Verificación del precio total, cuota inicial y saldo.
 
 Integrantes:
-Ángel Daniel Tapia Fernández
-Nombre del integrante 2
-Nombre del integrante 3
+Alegre Pereira, Jhoel Harold – N00410114
+Zavaleta Abanto, Piero Alessando - N00547287
+Castañeda Alcántara, Hummer Sthif – N00529991
+Tapia Fernández, Angel Daniel – N00543132
+Martínez Guevara, Diego – N00554012
 
 Curso:
 Fundamentos De Programación
