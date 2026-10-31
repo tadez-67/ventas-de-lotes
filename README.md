@@ -30,7 +30,8 @@ Estructura del proyecto:
 -validaciones.py: comprueba los datos ingresados por el usuario.
 
 Requisitos:
-Python 3.10 o una versión posterior.
+Python
+
 No requiere instalar librerías externas.
 
 Instrucciones de ejecución:
