@@ -1,13 +1,16 @@
 SISTEMA DE VENTA DE LOTES
 
 Descripción:
+
 Este proyecto implementa un sistema modular en Python para gestionar el registro y la venta de lotes de la empresa Terrenos del Norte S.A.C.
 El sistema permite registrar lotes, consultar su disponibilidad, registrar compradores, calcular el precio total de una venta, determinar la cuota inicial y calcular el saldo pendiente.
 
 Objetivo:
+
 Desarrollar una solución aplicando los principios de programación modular, separación de responsabilidades y reutilización de funciones.
 
 Funcionalidades:
+
 -Registrar lotes.
 -Validar códigos de lote duplicados.
 -Validar campos vacíos.
@@ -23,6 +26,7 @@ Funcionalidades:
 -Mostrar un resumen de las ventas.
 
 Estructura del proyecto:
+
 -main.py: contiene el menú y coordina el funcionamiento del sistema.
 -lotes.py: administra el registro, búsqueda y disponibilidad de los lotes.
 -ventas.py: registra las ventas y cambia el estado de los lotes.
@@ -35,6 +39,7 @@ Requisitos:
 -No requiere instalar librerías externas.
 
 Instrucciones de ejecución:
+
 1-Descargar o clonar el repositorio.
 2-brir una terminal dentro de la carpeta del proyecto.
 3-Ejecutar el siguiente comando:
@@ -72,6 +77,7 @@ El sistema fue probado con los siguientes casos:
 -Verificación del precio total, cuota inicial y saldo.
 
 Integrantes:
+
 Alegre Pereira, Jhoel Harold – N00410114
 Zavaleta Abanto, Piero Alessando - N00547287
 Castañeda Alcántara, Hummer Sthif – N00529991
