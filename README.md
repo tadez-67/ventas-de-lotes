@@ -31,9 +31,8 @@ Estructura del proyecto:
 
 Requisitos:
 
-Python
-
-No requiere instalar librerías externas.
+-Python
+-No requiere instalar librerías externas.
 
 Instrucciones de ejecución:
 1-Descargar o clonar el repositorio.
